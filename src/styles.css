@@ -1,1 +1,9 @@
 /* You can add global styles to this file, and also import other style files */
+:root {
+  color-scheme: dark light;
+}
+
+body {
+  background: #000e19ff;
+  opacity: 0.9;
+}
